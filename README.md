@@ -6,7 +6,7 @@ Hi! I'm Calvin Stephen, a passionate cloud and DevOps professional with experien
 
 ## Projects Overview
 
-### ![Terraform Logo](https://user-gen-media-assets.s3.amazonaws.com/seedream_images/37b387a3-0814-4cfe-be0c-d97f31973d66.png) Terraform-Powered Global Static Web Hosting on AWS CloudFront
+### ![Terraform Logo](https://user-gen-media-assets.s3.amazonaws.com/seedream_images/37b387a3-0814-4cfe-be0c-d97f31973d66.png) Terraform-Powered Global Static Web Hosting on AWS CloudFront  
 Automated static website hosting solution using Terraform. Provides fast, secure, and reliable global content delivery leveraging AWS S3 and CloudFront CDN.  
 **Tech stack:** Terraform, AWS S3, CloudFront, CDN  
 **Features:** Infrastructure as code, automated deployments, cache invalidation, SSL certificate management.  
@@ -30,14 +30,23 @@ Demonstration static website hosted on Microsoft Azure Storage Account. Includes
 
 ---
 
+### ![Azure IoT Logo](https://user-gen-media-assets.s3.amazonaws.com/seedream_images/141702dc-2cfa-4839-ab99-e66be8931079.png) Real-Time IoT Analytics Using Azure Services  
+Cloud-native IoT solution streaming simulated telemetry data to Azure IoT Hub, processing it with Stream Analytics, and storing results in Azure Blob Storage. Demonstrates building scalable real-time data pipelines with Azure.  
+**Tech stack:** Azure IoT Hub, Azure Stream Analytics, Azure Blob Storage, Python IoT SDK  
+**Features:** Real-time telemetry ingestion, event stream processing, blob storage for analytics  
+[GitHub Repository](https://github.com/calvinstephen487-oss/Real-Time-IoT-Analytics-Using-Azure-Services.git)
+
+---
+
 ## Contact
 
 I am open to exciting opportunities in cloud engineering and DevOps. Feel free to connect or share a message!  
 
 - LinkedIn: [calvinstephen](https://linkedin.com/in/calvinstephen)  
-- Email: calvinstephen487@gmail.com  
+- Email: [calvinstephen487@gmail.com](mailto:calvinstephen487@gmail.com)  
 - Phone: +91 94441 78684  
 
 ---
 
 Thank you for viewing my portfolio!
+
