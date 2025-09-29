@@ -2,7 +2,7 @@
 
 Hi! I'm Calvin Stephen, a passionate cloud and DevOps professional with experience in AWS, Azure, and Terraform. This portfolio highlights some of my key projects demonstrating automation, cloud infrastructure, and web hosting skills.
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Calvin_Stephen-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/calvinstephen) [![Email Badge](https://img.shields.io/badge/Email-calvinstephen487@gmail.com-red?style=flat-square&logo=gmail)](mailto:calvinstephen487@gmail.com) [![Phone Badge](https://img.shields.io/badge/Phone-+91_94441_78684-green?style=flat-square&logo=phone)](tel:+919444178684)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Calvin_Stephen-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/calvin-stephen-8b8b63367?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![Email Badge](https://img.shields.io/badge/Email-calvinstephen487@gmail.com-red?style=flat-square&logo=gmail)](mailto:calvinstephen487@gmail.com) [![Phone Badge](https://img.shields.io/badge/Phone-+91_94441_78684-green?style=flat-square&logo=phone)](tel:+919444178684)
 
 ## Projects Overview
 
@@ -42,7 +42,7 @@ Cloud-native IoT solution streaming simulated telemetry data to Azure IoT Hub, p
 
 I am open to exciting opportunities in cloud engineering and DevOps. Feel free to connect or share a message!  
 
-- LinkedIn: [calvinstephen](https://linkedin.com/in/calvinstephen)  
+- LinkedIn: [calvin-stephen](https://www.linkedin.com/in/calvin-stephen-8b8b63367?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
 - Email: [calvinstephen487@gmail.com](mailto:calvinstephen487@gmail.com)  
 - Phone: +91 94441 78684  
 
