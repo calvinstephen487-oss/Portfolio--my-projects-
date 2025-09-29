@@ -1,4 +1,4 @@
-# Calvin Stephen - Cloud & DevOps Portfolio
+# Calvin Stephen - Projects Portfolio
 
 Hi! I'm Calvin Stephen, a passionate cloud and DevOps professional with experience in AWS, Azure, and Terraform. This portfolio highlights some of my key projects demonstrating automation, cloud infrastructure, and web hosting skills.
 
