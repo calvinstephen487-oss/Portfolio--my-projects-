@@ -49,4 +49,3 @@ I am open to exciting opportunities in cloud engineering and DevOps. Feel free t
 ---
 
 Thank you for viewing my portfolio!
-
