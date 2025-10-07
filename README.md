@@ -38,6 +38,14 @@ Cloud-native IoT solution streaming simulated telemetry data to Azure IoT Hub, p
 
 ---
 
+### ![Docker Backup Restore Logo](https://user-gen-media-assets.s3.amazonaws.com/gemini_images/d11b3364-fd83-4330-9421-4ce6ae349fe4.png) Docker MySQL Backup and Restore  
+Step-by-step workflow handling backup and restore of a MySQL database using Docker volumes. Simulates real-world migration and disaster recovery.  
+**Tech stack:** Docker, MySQL  
+**Features:** Containerized DB, persistent volume backup & restore, reusable CLI workflow.  
+[GitHub Repository](https://github.com/calvinstephen487-oss/Docker-mysql-backup-and-restore.git)
+
+---
+
 ## Contact
 
 I am open to exciting opportunities in cloud engineering and DevOps. Feel free to connect or share a message!  
